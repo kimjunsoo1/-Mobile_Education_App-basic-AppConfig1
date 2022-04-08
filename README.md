@@ -1,1 +1,1 @@
-# -Mobile_Education_App-basic-AppConfig1
+# Mobile_Education_App-basic-AppConfig1
